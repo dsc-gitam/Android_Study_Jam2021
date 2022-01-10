@@ -1,8 +1,9 @@
 <p align="center">
-<a href="https://github.com/jyothiprakashpanaik/HackthonDSC-OpenSource-Project-Recomender">
+<a href="#">
     <img src="https://user-images.githubusercontent.com/70446767/148780156-85d735d7-fae3-46cd-ba0e-eaffcde2339f.png" alt="Logo" width="80" height="80"></a>
 </p>
-### This application is build by Prince And Team as a part of Andriod Study Jams
+---
+# This application is build by Prince And Team as a part of Andriod Study Jams
 Facilitator : princekhg@gmail.com
 
 Problem Statement: 
