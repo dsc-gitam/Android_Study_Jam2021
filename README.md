@@ -2,8 +2,10 @@
 <a href="#">
     <img src="https://user-images.githubusercontent.com/70446767/148781134-6941d8da-1519-4285-bb3e-d92e8fc75eb7.png" alt="Logo" width="200" height="200"></a>
 </p>
----
-# This application is build by Prince And Team as a part of Andriod Study Jams
+
+<hr>
+
+<h1> This application is build by Prince And Team as a part of Andriod Study Jams </h1>
 Facilitator : princekhg@gmail.com
 
 Problem Statement: 
