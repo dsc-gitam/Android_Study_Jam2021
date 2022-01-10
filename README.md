@@ -1,4 +1,5 @@
-## This application is build by Prince And Team as a part of Andriod Study Jams
+<img src="https://user-images.githubusercontent.com/70446767/148780156-85d735d7-fae3-46cd-ba0e-eaffcde2339f.png" width="150" height="150"/>
+### This application is build by Prince And Team as a part of Andriod Study Jams
 Facilitator : princekhg@gmail.com
 
 Problem Statement: 
@@ -28,4 +29,4 @@ This app is currently in testing mode as students have focused on implementing e
 
 Once the app has been successfully worked out with Firebase and other login and registration page, the app will be an ideal app to track exercises. We aim on improving the source code and modify it to a better, much streamlined UI app.
 
-<img src="https://user-images.githubusercontent.com/70446767/148780156-85d735d7-fae3-46cd-ba0e-eaffcde2339f.png" width="200" height="200"/>
+
