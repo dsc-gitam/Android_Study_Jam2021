@@ -9,8 +9,6 @@ Our app proposes a small definition of “SplitIt” so called as it split essen
 ![image](https://user-images.githubusercontent.com/70446767/148774588-fa413f1b-d6f1-4dc3-bd35-ed6c220b8c86.png)
 ![image](https://user-images.githubusercontent.com/70446767/148774667-88ce0789-7d10-46a7-805d-55d723179a03.png)
 ![image](https://user-images.githubusercontent.com/70446767/148774695-588e2c71-7263-4cdc-84eb-11af148152ac.png)
-
-![image](https://user-images.githubusercontent.com/70446767/148774712-04e2155a-4557-4fec-8940-b897618f7837.png)
 ![image](https://user-images.githubusercontent.com/70446767/148774723-d28cc340-0f9e-4a98-89ad-b84c4fabe984.png)
 ![image](https://user-images.githubusercontent.com/70446767/148774735-39a95326-2663-49a1-a3bb-d95ec5beb95c.png)
 ![image](https://user-images.githubusercontent.com/70446767/148774753-47ac8127-9904-4308-a512-af14140b919b.png)
