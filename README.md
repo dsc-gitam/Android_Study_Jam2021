@@ -7,7 +7,6 @@ Proposed Solution:
 Our app proposes a small definition of “SplitIt” so called as it split essential morning routine and help user to keep track of exercises and and past events using RoomDB and live data. We’ve used co-routines and have implemented a daily exercise tracking system. Anyone can start excercising using tts speech system speaking out the next exercise. Anyone can use this application to follow 7 exercises such as plank, rotational plank, triceps, chair etc.
      
 ![image](https://user-images.githubusercontent.com/70446767/148774588-fa413f1b-d6f1-4dc3-bd35-ed6c220b8c86.png)
-![image](https://user-images.githubusercontent.com/70446767/148774667-88ce0789-7d10-46a7-805d-55d723179a03.png)
 ![image](https://user-images.githubusercontent.com/70446767/148774695-588e2c71-7263-4cdc-84eb-11af148152ac.png)
 ![image](https://user-images.githubusercontent.com/70446767/148774723-d28cc340-0f9e-4a98-89ad-b84c4fabe984.png)
 ![image](https://user-images.githubusercontent.com/70446767/148774735-39a95326-2663-49a1-a3bb-d95ec5beb95c.png)
