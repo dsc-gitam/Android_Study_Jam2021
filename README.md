@@ -1,5 +1,5 @@
-<center><img src="https://user-images.githubusercontent.com/70446767/148780156-85d735d7-fae3-46cd-ba0e-eaffcde2339f.png" width="150" height="150"/> </center>
-### This application is build by Prince And Team as a part of Andriod Study Jams
+<center><img src="https://user-images.githubusercontent.com/70446767/148780756-0f5bdae8-d679-41fe-89e6-0c13c9a67880.png" width="150" height="150"/> </center>
+<h2>This application is build by Prince And Team as a part of Andriod Study Jams</h2>
 Facilitator : princekhg@gmail.com
 
 Problem Statement: 
