@@ -5,12 +5,14 @@ Problem Statement:
 As there’s a rise in Corona and lockdown become sporadic (word jumbled), an ever increasing need to have good health through workout becomes necessity.
 Proposed Solution:
 Our app proposes a small definition of “SplitIt” so called as it split essential morning routine and help user to keep track of exercises and and past events using RoomDB and live data. We’ve used co-routines and have implemented a daily exercise tracking system. Anyone can start excercising using tts speech system speaking out the next exercise. Anyone can use this application to follow 7 exercises such as plank, rotational plank, triceps, chair etc.
-     
-![image](https://user-images.githubusercontent.com/70446767/148774588-fa413f1b-d6f1-4dc3-bd35-ed6c220b8c86.png)
-![image](https://user-images.githubusercontent.com/70446767/148774695-588e2c71-7263-4cdc-84eb-11af148152ac.png)
-![image](https://user-images.githubusercontent.com/70446767/148774723-d28cc340-0f9e-4a98-89ad-b84c4fabe984.png)
-![image](https://user-images.githubusercontent.com/70446767/148774735-39a95326-2663-49a1-a3bb-d95ec5beb95c.png)
-![image](https://user-images.githubusercontent.com/70446767/148774753-47ac8127-9904-4308-a512-af14140b919b.png)
+
+<div>
+     <img src="https://user-images.githubusercontent.com/70446767/148774588-fa413f1b-d6f1-4dc3-bd35-ed6c220b8c86.png" height="250" width="150"/>
+     <img src="https://user-images.githubusercontent.com/70446767/148774695-588e2c71-7263-4cdc-84eb-11af148152ac.png" height="250" width="150"/>
+     <img src="https://user-images.githubusercontent.com/70446767/148774723-d28cc340-0f9e-4a98-89ad-b84c4fabe984.png" height="250" width="150"/>
+     <img src="https://user-images.githubusercontent.com/70446767/148774735-39a95326-2663-49a1-a3bb-d95ec5beb95c.png" height="250" width="150"/>
+     <img src="https://user-images.githubusercontent.com/70446767/148774753-47ac8127-9904-4308-a512-af14140b919b.png" height="250" width="150"/>
+</div>     
 
 ### Functionality & Concepts used:
 ---
