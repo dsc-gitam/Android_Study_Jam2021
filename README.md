@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/70446767/148780156-85d735d7-fae3-46cd-ba0e-eaffcde2339f.png" width="150" height="150"/>
+<center><img src="https://user-images.githubusercontent.com/70446767/148780156-85d735d7-fae3-46cd-ba0e-eaffcde2339f.png" width="150" height="150"/> </center>
 ### This application is build by Prince And Team as a part of Andriod Study Jams
 Facilitator : princekhg@gmail.com
 
