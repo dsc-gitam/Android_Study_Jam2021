@@ -6,9 +6,14 @@
 <hr>
 
 <h1> This application is build by Prince And Team as a part of Andriod Study Jams </h1>
-Facilitator : princekhg@gmail.com
+Facilitator : <b>princekhg@gmail.com</b>
+
+<br>
+<br>
+<br>
 
 Problem Statement: 
+
 As there’s a rise in Corona and lockdown become sporadic (word jumbled), an ever increasing need to have good health through workout becomes necessity.
 Proposed Solution:
 Our app proposes a small definition of “SplitIt” so called as it split essential morning routine and help user to keep track of exercises and and past events using RoomDB and live data. We’ve used co-routines and have implemented a daily exercise tracking system. Anyone can start excercising using tts speech system speaking out the next exercise. Anyone can use this application to follow 7 exercises such as plank, rotational plank, triceps, chair etc.
